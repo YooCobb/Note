@@ -105,3 +105,6 @@ dist
 
 .env
 
+package.json
+
+secretWords.js
