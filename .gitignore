@@ -103,8 +103,12 @@ dist
 # TernJS port file
 .tern-port
 
+generate
+
 .env
 
 package.json
 
 secretWords.js
+
+utils.js

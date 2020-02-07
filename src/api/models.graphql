@@ -2,13 +2,13 @@ type User {
   id: ID!
   username: String!
   email: String!
-  isFollowing: Boolean!
   isSelf: Boolean!
   bio: String
   following: [User!]!
   followingCount: Int!
   followers: [User!]!
   followersCount: Int!
+  isFollowing: Boolean!
   posts: [Post!]!
   postsCount: Int!
   likes: [Like!]!
@@ -25,9 +25,9 @@ type Post {
   user: User!
   words: [Word!]!
   likes: [Like!]!
-  comments: [Comment!]!
-  isLiked: Boolean!
   likeCount: Int!
+  isLiked: Boolean!
+  comments: [Comment!]!
   commentCount: Int!
   createdAt: String
   updatedAt: String
