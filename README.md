@@ -5,7 +5,7 @@ using React & React-native + Prisma
 ## Stories
 
 - [O] Create account
-- [ ] Request Secret
+- [O] Request Secret
 - [ ] Confirm Secret (Login)
 - [ ] Like / Unlike a post
 - [ ] Comment on a post
