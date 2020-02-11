@@ -5,8 +5,8 @@ using React & React-native + Prisma
 ## Stories
 
 - [O] Create account
-- [O] Request Secret
-- [ ] Confirm Secret (Login)
+- [x] Request Secret
+- [O] Confirm Secret (Login)
 - [ ] Like / Unlike a post
 - [ ] Comment on a post
 - [ ] Search by user
@@ -19,3 +19,7 @@ using React & React-native + Prisma
 - [ ] Upload a post
 - [ ] Edit the post (Delete)
 - [ ] See the feed
+
+Error
+
+- [ ] Cant use "requestSecret"
