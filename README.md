@@ -7,7 +7,7 @@ using React & React-native + Prisma
 - [O] Create account
 - [x] Request Secret
 - [O] Confirm Secret (Login)
-- [ ] Like / Unlike a post
+- [O] Like / Unlike a post
 - [ ] Comment on a post
 - [ ] Search by user
 - [ ] Follow User
