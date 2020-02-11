@@ -8,7 +8,7 @@ using React & React-native + Prisma
 - [x] Request Secret
 - [O] Confirm Secret (Login)
 - [O] Like / Unlike a post
-- [ ] Comment on a post
+- [O] Comment on a post
 - [ ] Search by user
 - [ ] Follow User
 - [ ] Unfollow User
