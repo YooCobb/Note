@@ -17,8 +17,8 @@ using React & React-native + Prisma
 - [o] See MY profile
 - [o] See the full post
 - [o] Upload a post
-- [ ] Edit the post (Delete)
-- [ ] See the feed
+- [o] Edit the post (Delete)
+- [o] See the feed
 
 Error
 

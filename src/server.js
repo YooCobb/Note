@@ -17,5 +17,5 @@ server.express.use(logger("dev"));
 server.express.use(authenticateJwt);
 
 server.start({ port: PORT }, () =>
-  console.log(`Server running on http://localhost:${PORT}`)
+  console.log(`✅ Server running on http://localhost:${PORT}`)
 );
